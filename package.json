@@ -1,7 +1,7 @@
 {
     "name": "definitively-black",
     "displayName": "Definitively Black",
-    "description": "The definition of black, with vibrant syntax highlighting.",
+    "description": "The definition of black, with beautifully vibrant syntax highlighting. This VS Code theme puts focus on your code.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.41.0"
