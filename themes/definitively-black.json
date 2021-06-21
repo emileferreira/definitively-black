@@ -47,6 +47,7 @@
         "statusBarItem.remoteForeground": "#ffffff",
         "tab.activeBackground": "#ffffff22",
         "tab.inactiveBackground": "#00000000",
+        "tab.border": "#000000",
         "titleBar.activeBackground": "#000000",
         "titleBar.activeForeground": "#ffffff88",
         "panel.border": "#000000",
