@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2020 Vince Salvino
+
 Copyright (c) 2021 Emile Ferreira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
