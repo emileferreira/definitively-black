@@ -9,4 +9,6 @@ The definition of black, with beautifully vibrant syntax highlighting. This VS C
 3. Swap theme using `ctrl` + `K` and `ctrl` + `T`
 4. Select "Definitively Black"
 
+## Preview
+
 ![Screenshot of Definitively Black theme](images/screenshot.png)
