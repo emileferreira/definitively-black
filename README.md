@@ -8,3 +8,5 @@ The definition of black, with beautifully vibrant syntax highlighting. This VS C
 2. Launch VS Code
 3. Swap theme using `ctrl` + `K` and `ctrl` + `T`
 4. Select "Definitively Black"
+
+![Screenshot of Definitively Black theme](images/screenshot.png)
