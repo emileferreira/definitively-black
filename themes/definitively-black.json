@@ -599,7 +599,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#777777",
+                "foreground": "#ffffff28",
                 "fontStyle": "italic"
             }
         },
@@ -609,7 +609,7 @@
                 "comment.block"
             ],
             "settings": {
-                "foreground": "#AAAAAA",
+                "foreground": "#ffffff28",
                 "fontStyle": "italic"
             }
         },
